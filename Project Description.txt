@@ -1,0 +1,33 @@
+******************************************************************************************
+Project Title : Being a twitcher - website design
+
+Idea behind project : 
+For bird lover and bird photographer, this is a platform where they will get information 
+about places where they can watch and photograph as places can vary time to time because 
+of birds seasonal migration.
+
+Developer : Aashlesha Shedge
+
+Code info: .html, .css , .js 
+
+******************************************************************************************
+
+Details:
+
+I have created a website on Bird Migration with html and css code. 
+First of all I made this website for twitcher and about migration process. 
+Menu Design: In navbar section it has links like Home, Migration Section, photo gallery
+and contact us. 
+
+Webpage consits of following areas:
+
+* Home: Details about being a twicher and birds migration.
+* Bird Migration: It give list of places where you can visit in India as per birds seasonal 
+migration. And bird watching timing details
+* Photo Gallery: Added birds images for bird lovers.
+* Footer Section : it include links to webpage sections and footer notes.
+* Button : Created buttons for signup details (after pressing sign up button one form will 
+pop up) and for design and navigation purpose.
+* Functinality: toggle, used tables for alignments.and .css for all visual aspects.
+
+******************************************************************************************
